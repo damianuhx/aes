@@ -1,3 +1,6 @@
+This RESTful backend service was created for storing food descriptions in a normalized database. It is based on Laravel.
+
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
